@@ -1,7 +1,8 @@
 <h2><b>Lola Le</b></h2>
+<h4>2024–2025</h4>System administration at [42 Berlin](https://42berlin.de)
 
-<h4>Student of 42berlin</h4>
-<b>picine</b>: march 2023<br>
+<h4>2023</h4>Student of [42 Berlin](https://42berlin.de)<br>
+<b>Picine</b>: march 2023<br>
 <b>42cursus</b>: since may 2023 <br> <br>
 
 
